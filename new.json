@@ -1,0 +1,35 @@
+[{
+	"id": "105",
+	"name":"桃園高中",
+	"X_POSITION":121.325990,
+	"Y_POSITION":24.999121, 
+	"location": [{
+		"name": "虎頭山公園"
+		},{
+		"name": "奧爾森林學堂"
+	}],
+	"count":10
+
+
+	
+},{
+    "id": "105",
+	"name":"榮民醫院",
+	"X_POSITION":121.323862,    
+	"Y_POSITION":25.003030,
+	"location": [{
+		"name": "忠烈祠"
+	}],
+	"count":12
+
+
+},{
+	"id": "107",
+	"name":"景福宮",    
+	"X_POSITION":121.310180,
+	"Y_POSITION":24.994087,
+	"location": [{
+		"name": "景福宮"
+	}],
+	"count":5
+}]
